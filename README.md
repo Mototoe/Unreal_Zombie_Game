@@ -1,11 +1,7 @@
-# Unreal_Zombie_Game
+# Valley of The Undead
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description the game that you wrote. Describe how to play your game.}
-
-{Describe your purpose for writing this software.}
+I made a top down zombie shooting game with enemys that grow in hoard size. I made this so that I can get experienc in game frame work and learn more about the unreal engine.
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
 
@@ -13,9 +9,8 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used the Unreal Engine 5 and a lot of there free assets to construct the game. I also used visual studio to edit some things in c++.
 
-{Describe the programming language that you used and any libraries.}
 
 # Useful Websites
 
