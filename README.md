@@ -4,7 +4,7 @@
 I made a top down zombie shooting game with enemys that grow in hoard size. I made this so that I can get experienc in game frame work and learn more about the unreal engine.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/z-pkAgEwEm8))
 
 # Development Environment
 
